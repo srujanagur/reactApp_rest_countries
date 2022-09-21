@@ -1,6 +1,3 @@
-# React assignment
-
-Work individually to finish this assignment. You can ask for help from your pair mate, other class mates or instructors
 
 ## Assignment
 
